@@ -1,7 +1,6 @@
 import csv
 
-# this file was written to check if a district
-# that hadn't received funding directly
+# this script checks if the districts with no match
 # might have received funding through their council
 # so logically we want to ask
 # a. did the local authority received funding directly
