@@ -19,5 +19,7 @@ We also want to know how many adult women live in those areas, so this script ma
 
 ### Data links
 [DCLG funding data](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/592695/Funding_to_help_support_victims_of_domestic_abuse_2016-18.pdf), we used [tabula](http://tabula.technology/) to convert the pdf to a spreadsheet.
-[LGBC local authority data, including type and county, see the Authority Summary sheet](https://www.lgbce.org.uk/records-and-resources/local-authorities-in-england)
+
+[LGBC local authority data](https://www.lgbce.org.uk/records-and-resources/local-authorities-in-england), including type and county. See the Authority Summary sheet.
+
 [ONS population data](https://www.lgbce.org.uk/records-and-resources/local-authorities-in-england)
