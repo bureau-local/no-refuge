@@ -14,7 +14,7 @@ Please provide the following information: the amount of local authority money sp
 
 Some local authorities could not provide data for all the years requested. The data included here is for FY 2010/11 and 2016/17.
 
-The "Difference", "% cahnge" and "Drop/Rise/Same" columns are caluclations by the Bureau.
+The "Difference", "% change" and "Drop/Rise/Same" columns are caluclations by the Bureau.
 
 ------
 
