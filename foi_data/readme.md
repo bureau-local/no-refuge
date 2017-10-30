@@ -1,6 +1,6 @@
-# LA spending on domestic violence refuges
+## LA spending on domestic violence refuges
 
-## Cuts to domestic violence refuges
+### Cuts to domestic violence refuges
 
 The Bureau of Investigative Journalism put in a series of questions to local councils via Freedom of Information requests. 
 
