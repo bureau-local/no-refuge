@@ -1,6 +1,6 @@
-#LA spending on domestic violence refuges
+# LA spending on domestic violence refuges
 
-##Cuts to domestic violence refuges
+## Cuts to domestic violence refuges
 
 The Bureau of Investigative Journalism put in a series of questions to local councils via Freedom of Information requests. 
 The data provided in the next tab is the responses to the following question:
@@ -8,7 +8,7 @@ Please provide the following information: the amount of local authority money sp
 
 ------
 
-###Note: 
+### Note: 
 Some local authorities could not provide data for all the years requested. The data included here is for FY 2010/11 and 2016/17.
 The "Difference", "% cahnge" and "Drop/Rise/Same" columns are caluclations by the Bureau.
 
