@@ -5,6 +5,8 @@ The Python scripts pull out all the areas receiving DCLG funding and those that 
 
 Read the full story here: https://www.thebureauinvestigates.com/stories/2017-10-16/a-system-at-breaking-point
 
+------
+
 ### Step 1: matches.py
 This script goes through every local authority in the UK and find the three best possible matches among DCLG funding recipients using fuzzy matching.
 
@@ -17,9 +19,11 @@ This script verifies if the districts with no matchs, might have received fundin
 ### Step 4: add-pop-maj.py
 We also want to know how many adult women live in those areas, so this script matches the local authorities with their adult women population from the ONS.
 
+------
+
 ### Data links
 [DCLG funding data](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/592695/Funding_to_help_support_victims_of_domestic_abuse_2016-18.pdf), we used [tabula](http://tabula.technology/) to convert the pdf to a spreadsheet.
 
 [LGBC local authority data](https://www.lgbce.org.uk/records-and-resources/local-authorities-in-england), including type and county. See the Authority Summary sheet.
 
-[ONS population data](https://www.lgbce.org.uk/records-and-resources/local-authorities-in-england)
+[ONS population data](https://www.lgbce.org.uk/records-and-resources/local-authorities-in-england).
