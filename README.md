@@ -7,7 +7,7 @@ The Python scripts pull out all the areas receiving DCLG funding and those that 
 
 [See the impact of the cuts here](http://bureau-local.github.io/no-refuge/no-refuge.html).
 
-[And how we made the above vis here](https://github.com/bureau-local/bureau-local.github.io/tree/master/no-refuge)
+[And the files to make the above vis here](https://github.com/bureau-local/bureau-local.github.io/tree/master/no-refuge).
 
 ------
 
